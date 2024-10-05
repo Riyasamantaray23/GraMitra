@@ -9,7 +9,7 @@ Crop recommendation is a crucial aspect of precision farming. In agriculture, it
 
 This Application recommends the best crop to plant based on Soil composition, Ph level, rainfall, humidity, and temperature. It was created based on a Kaggle dataset and can be accessed by the link below:
 
-App Link: https://soweasy.streamlit.app/
+App Link: https://gramitra-crop-recommendation.streamlit.app/
 
 Dataset Link: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
